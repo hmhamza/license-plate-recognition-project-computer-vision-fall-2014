@@ -1,2 +1,3 @@
-# license-plate-recognition-project-computer-vision-fall-2014
-A group project for the Bachelors course Fundamentals of Computer Vision done in Fall 2014
+# License Plate Recognition
+
+This MATLAB project takes input an image of the license plate of a car and outputs the characters written on the plate
